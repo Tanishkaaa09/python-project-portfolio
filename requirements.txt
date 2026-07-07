@@ -1,0 +1,10 @@
+opencv-python
+opencv-contrib-python
+mediapipe==0.10.14
+numpy
+pyautogui
+pynput
+face-recognition
+qrcode
+Pillow
+pyspellchecker
